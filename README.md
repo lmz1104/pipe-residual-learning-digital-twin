@@ -141,7 +141,7 @@ The hybrid residual-learning framework improves agreement between predictions an
 
 ![Residual Distribution](outputs/residual_histogram.png)
 
-Residual-learning correction reduces systematic prediction bias and narrows the residual distribution.
+Under the default benchmark setting, Random Forest residual correction reduces RMSE by approximately 52.5% relative to the mechanistic baseline, while improving R² from 0.9857 to 0.9968.
 
 ---
 
